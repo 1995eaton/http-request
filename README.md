@@ -6,6 +6,8 @@ http-request is a simple library that combines several methods used to send and 
 Examples
 ========
 
+[Demo page](http://1995eaton.github.io/http-request/)
+
 ```javascript
 // jsonp
 httpRequest({
