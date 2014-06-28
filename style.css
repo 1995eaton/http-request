@@ -1,0 +1,15 @@
+button {
+  display: inline-block;
+  margin: 5px;
+  padding: 3px;
+  text-align: center;
+  min-width: 75px;
+}
+
+#output {
+  position: relative;
+  right: 5px; top: 5px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
